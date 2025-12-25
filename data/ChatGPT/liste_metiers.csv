@@ -1,0 +1,192 @@
+Categorie,Metier
+Informatique,Développeur logiciel
+Informatique,Développeur web
+Informatique,Développeur mobile
+Informatique,Ingénieur logiciel
+Informatique,Architecte logiciel
+Informatique,Data scientist
+Informatique,Data analyst
+Informatique,Ingénieur data
+Informatique,Ingénieur IA
+Informatique,Ingénieur machine learning
+Informatique,Administrateur systèmes
+Informatique,Administrateur réseaux
+Informatique,Ingénieur DevOps
+Informatique,Ingénieur cloud
+Informatique,Expert cybersécurité
+Informatique,Analyste SOC
+Informatique,Pentester
+Informatique,Chef de projet IT
+Informatique,Product owner
+Informatique,Scrum master
+Informatique,UX designer
+Informatique,UI designer
+Informatique,Game designer
+Informatique,Testeur logiciel
+Informatique,QA engineer
+Ingénierie,Ingénieur mécanique
+Ingénierie,Ingénieur électrique
+Ingénierie,Ingénieur électronique
+Ingénierie,Ingénieur automatisme
+Ingénierie,Ingénieur industriel
+Ingénierie,Ingénieur qualité
+Ingénierie,Ingénieur production
+Ingénierie,Ingénieur méthodes
+Ingénierie,Ingénieur matériaux
+Ingénierie,Ingénieur énergie
+Ingénierie,Technicien de maintenance
+Ingénierie,Technicien industriel
+Ingénierie,Opérateur de production
+Ingénierie,Soudeur
+Ingénierie,Chaudronnier
+Ingénierie,Tourneur-fraiseur
+Ingénierie,Ajusteur-monteur
+Ingénierie,Dessinateur industriel
+BTP,Architecte
+BTP,Ingénieur BTP
+BTP,Chef de chantier
+BTP,Conducteur de travaux
+BTP,Maçon
+BTP,Coffreur-bancheur
+BTP,Charpentier
+BTP,Couvreur
+BTP,Menuisier
+BTP,Plombier
+BTP,Chauffagiste
+BTP,Électricien
+BTP,Peintre en bâtiment
+BTP,Plaquiste
+BTP,Carreleur
+BTP,Géomètre
+BTP,Topographe
+Santé,Médecin généraliste
+Santé,Médecin spécialiste
+Santé,Chirurgien
+Santé,Infirmier
+Santé,Infirmier anesthésiste
+Santé,Aide-soignant
+Santé,Sage-femme
+Santé,Pharmacien
+Santé,Préparateur en pharmacie
+Santé,Dentiste
+Santé,Orthodontiste
+Santé,Kinésithérapeute
+Santé,Ostéopathe
+Santé,Psychologue
+Santé,Psychiatre
+Santé,Orthophoniste
+Santé,Ergothérapeute
+Santé,Manipulateur radio
+Santé,Ambulancier
+Santé,Assistant social
+Santé,Éducateur spécialisé
+Commerce,Commercial
+Commerce,Ingénieur commercial
+Commerce,Responsable commercial
+Commerce,Account manager
+Commerce,Chargé de clientèle
+Commerce,Vendeur
+Commerce,Responsable de magasin
+Commerce,Acheteur
+Commerce,Category manager
+Commerce,Chef de produit
+Gestion,Manager
+Gestion,Chef d'équipe
+Gestion,Directeur
+Gestion,Directeur général
+Gestion,Entrepreneur
+Gestion,Consultant
+Gestion,Contrôleur de gestion
+Gestion,Auditeur
+Gestion,Expert-comptable
+Gestion,Comptable
+Gestion,Assistant de gestion
+Finance,Analyste financier
+Finance,Gestionnaire de patrimoine
+Finance,Conseiller financier
+Finance,Trader
+Finance,Actuaire
+Finance,Risk manager
+Finance,Banquier
+Finance,Chargé d'affaires
+Assurance,Courtier en assurance
+Assurance,Conseiller assurance
+Assurance,Gestionnaire de sinistres
+Droit,Avocat
+Droit,Notaire
+Droit,Huissier de justice
+Droit,Magistrat
+Droit,Juriste
+Administration,Fonctionnaire
+Administration,Attaché territorial
+Administration,Secrétaire administratif
+Administration,Assistant administratif
+Enseignement,Professeur des écoles
+Enseignement,Professeur de collège
+Enseignement,Professeur de lycée
+Enseignement,Professeur universitaire
+Enseignement,Enseignant-chercheur
+Enseignement,Formateur
+Enseignement,Conseiller d'orientation
+Arts,Artiste plasticien
+Arts,Peintre
+Arts,Sculpteur
+Arts,Illustrateur
+Arts,Graphiste
+Arts,Directeur artistique
+Arts,Photographe
+Arts,Vidéaste
+Arts,Monteur vidéo
+Arts,Réalisateur
+Arts,Acteur
+Arts,Comédien
+Arts,Musicien
+Arts,Compositeur
+Arts,Chef d'orchestre
+Médias,Journaliste
+Médias,Rédacteur
+Médias,Correcteur
+Médias,Community manager
+Médias,Chargé de communication
+Médias,Responsable communication
+Médias,Attaché de presse
+Transport,Chauffeur routier
+Transport,Livreur
+Transport,Conducteur de bus
+Transport,Conducteur de train
+Transport,Pilote de ligne
+Transport,Hôtesse de l'air
+Transport,Steward
+Logistique,Responsable logistique
+Logistique,Coordinateur logistique
+Logistique,Supply chain manager
+Logistique,Magasinier
+Logistique,Cariste
+Hôtellerie,Réceptionniste
+Hôtellerie,Gouvernant
+Hôtellerie,Directeur d'hôtel
+Restauration,Serveur
+Restauration,Chef de rang
+Restauration,Maître d'hôtel
+Restauration,Cuisinier
+Restauration,Chef cuisinier
+Restauration,Second de cuisine
+Restauration,Pâtissier
+Restauration,Boulanger
+Restauration,Boucher
+Restauration,Poissonnier
+Restauration,Traiteur
+Services,Agent de sécurité
+Services,Agent d'entretien
+Services,Technicien de surface
+Services,Concierge
+Services,Coiffeur
+Services,Barbier
+Services,Esthéticien
+Services,Masseur
+Services,Coach sportif
+Services,Coach de vie
+Services,Conseiller en insertion
+Services,Assistant maternel
+Services,Garde d'enfants
+Services,Auxiliaire de vie
