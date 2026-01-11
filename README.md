@@ -20,5 +20,7 @@ Appli de rencontre, pouvoir crée des profils et les match ensemble selon leurs 
     2 - Trouver comment vectoriser des profils
 
 
+[Open Classroom](https://openclassrooms.com/fr/courses/8532116-mettez-en-place-un-rag-pour-un-llm/8617514-transformez-vos-donnees-textuelles-en-vecteur)
+
 
 
