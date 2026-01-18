@@ -20,7 +20,6 @@ CREATE TABLE IF NOT EXISTS Profil_Embeddings (
     profil_embeddings_id INTEGER PRIMARY KEY AUTOINCREMENT,
     user_id GUID,
     embeddings_id INTEGER,
-    -- score_similarite FLOAT,
     FOREIGN KEY (user_id) REFERENCES Users(user_id),
     FOREIGN KEY (embeddings_id) REFERENCES Embeddings(embeddings_id)
 );
