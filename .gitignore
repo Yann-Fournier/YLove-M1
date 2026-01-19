@@ -1,4 +1,5 @@
-.venv
+.venv/
+.YLove_env/
 .ipynb_checkpoints
 __pycache__/
 data/Fake_profiles/

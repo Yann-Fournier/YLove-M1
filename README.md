@@ -1,26 +1,44 @@
 # YLove
+---
 
+YLove est un projet d'école éfféctué dans la cadre de la fin du module [Machine Learning](https://github.com/Yann-Fournier/Machine_Learning-M1). Il a été réaliser par [Elodie Senel](https://github.com/Esenel19) et [Yann Fournier](https://github.com/Yann-Fournier).
 
-Appli de rencontre, pouvoir crée des profils et les match ensemble selon leurs gouts.
+Ce projet a pour but de recréer le système de recommandation que l'on pourrais retrouver sur une appli de rencontre.
 
-### Recherche
+### Création de l'environnement python
 
-- Comment fonctionne l'appli
-- Algo de recommandation
-- Les attribut qu'elle utilise
-- Comment vectoriser des profils
-- Comment fonctionne le KNN
-- Comment faire des graphique animés (Simulation en petit et en grand)
-- Comment superposé 2 plans de KNN (si c'est possible)
+Veuillez recréez l'environnement dans lequelle nous avons développer ce projet avec les commandes suivante.
 
-### Fonctionalité :
+- Création de l'environnement
+```bash
+python -m venv YLove_env
+```
 
-    1 - Création de profils, fake données (ID, NOM, PRENOM, SEXE, AGE, ADRESSES, HOBBY, TRAIT CARACTERE, TRAVAILLE)
+- Activation de l'environnement sur Window
+```bash
+YLove_env\Scripts\activate
+```
 
-    2 - Trouver comment vectoriser des profils
+- Activation de l'environnement sur Unix ou MacOS
+```bash
+source YLove_env/bin/activate
+```
 
+- Installation des dépendances
+```bash
+pip install -r requirements.txt
+```
 
-[Open Classroom](https://openclassrooms.com/fr/courses/8532116-mettez-en-place-un-rag-pour-un-llm/8617514-transformez-vos-donnees-textuelles-en-vecteur)
+### Création de faux utilisateurs
+
+Un fois l'environnement de développement créer nous allons pouvoir créer nos faux utilisateurs.
+
+Pour créer ces faux utilisateurs, vous devez lancer le fichier 'data/fake_data.ipynb'. Une fois l'éxecution du fichier terminé, les données seront stockées dans le dossier 'data/Fake_profiles'.
+
+Après avoir créer nos faux utilisateurs, nous allons devoir les stockés dans notre base de données. Pour cela, veuillez éxecuter le fichier 'data/bdd.ipynb'.
+
+> [!warning]
+> Truc bidule
 
 
 
