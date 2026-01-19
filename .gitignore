@@ -2,3 +2,5 @@
 .ipynb_checkpoints
 __pycache__/
 data/Fake_profiles/
+data/Y-love.db
+data/__pycache__/
