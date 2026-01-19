@@ -38,7 +38,8 @@ Pour créer ces faux utilisateurs, vous devez lancer le fichier 'data/fake_data.
 Après avoir créer nos faux utilisateurs, nous allons devoir les stockés dans notre base de données. Pour cela, veuillez éxecuter le fichier 'data/bdd.ipynb'.
 
 > [!warning]
-> L'éxecution du fichier 'data/bdd.ipynb' entrainera la création de la base de données sous le nom de 'data/Y-love.db'. 
+> L'éxecution du fichier 'data/bdd.ipynb' entrainera la création de la base de données sous le nom de 'data/Y-love.db'.
+> 
 > Il est important que vous supprimiez cette base de données avant l'éxecution du fichier si elle existe déjà.
 
 ### Script de recommandation
